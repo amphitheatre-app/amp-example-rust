@@ -1,6 +1,3 @@
-version = 1
-
-[character]
 name = "amp-example-rust"
 version = "0.0.1"
 authors = ["Eguo Wang <wangeguo@gmail.com>"]
