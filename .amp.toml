@@ -1,10 +1,6 @@
-version = 1
-
-[character]
 name = "amp-example-rust"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Eguo Wang <wangeguo@gmail.com>"]
-edition = "v1"
 description = "A simple Rust example app using Rocket"
 readme = "README.md"
 homepage = "https://github.com/amphitheatre-app/amp-example-rust"
