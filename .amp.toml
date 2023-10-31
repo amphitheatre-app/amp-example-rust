@@ -9,3 +9,9 @@ license = "Apache-2.0"
 license-file = "LICENSE"
 keywords = ["example", "rust", "getting-started"]
 categories = ["example"]
+
+[build]
+builder = "wangeguo/amp-default-cluster-builder"
+
+[build.env]
+CNB_PLATFORM_API = "0.9"
