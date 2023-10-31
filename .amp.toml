@@ -1,5 +1,5 @@
 name = "amp-example-rust"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Eguo Wang <wangeguo@gmail.com>"]
 description = "A simple Rust example app using Rocket"
 readme = "README.md"
